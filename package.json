@@ -1,0 +1,31 @@
+{
+  "name": "restcountries.eu",
+  "version": "0.0.0",
+  "description": "An API wrapper for restcountries.eu written in JavaScript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INEX07/restcountries.eu.git"
+  },
+  "keywords": [
+    "country-api",
+    "countries.js",
+    "world.js",
+    "world-api",
+    "countries",
+    "flags-api",
+    "restcountries.eu"
+  ],
+  "author": "INEX07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INEX07/restcountries.eu/issues"
+  },
+  "homepage": "https://github.com/INEX07/restcountries.eu#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
